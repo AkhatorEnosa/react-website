@@ -13,7 +13,7 @@ const Newsletter = () => {
               <input type="email" placeholder='Enter your email' className='p-3 flex w-full rounded-md text-black'/>
               <button className="bg-[#00df9c] w-[200px] rounded-md font-medium ml-3 my-2 py-3 text-black"> Notify Me! </button>
            </div>
-           <p className='text-center md:text-left'>We care about your privacy. Read our privacy policy.</p>
+           <p className='text-center md:text-left'>We care about your privacy. Read our <span className='text-[#00df9c]'>Privacy Policy</span>.</p>
         </div>
       </div> 
     </div>
